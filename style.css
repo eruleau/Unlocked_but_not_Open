@@ -1,0 +1,30 @@
+body {
+  font-family: monospace;
+  font-size: 14px;
+  color:black;
+  background-color: silver;
+  margin: 20px;
+  padding: 0;
+}
+
+h1, h2{
+  font-family:monospace;
+color:black;
+}
+
+h3{
+  color: black;
+}
+h5{
+  color: black;
+}
+P{
+  font-family: monospace;
+  font-size: 24px;
+}
+
+img {
+  display: inline-block;
+  padding: 2px;
+  width: 500px;
+}
